@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @liuliu12343
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+liuliu12343/liuliu12343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+1.打开时钟，选择闹钟；
+2.在新建/编辑闹钟界面编辑了内容后轻点back键返回；
+3.选择舍弃/取消
